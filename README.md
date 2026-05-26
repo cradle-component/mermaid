@@ -1,5 +1,5 @@
 # mermaid component
-This component is an example on how you can create a component in [CradleCMS](https://cradlecms.com) that loads a library.
+This is an example on how you can create a component in [CradleCMS](https://cradlecms.com) that loads a library.
 The mermaid library is large, about `~900KB`, so it's only loaded when content has been tagged with `mermaid`.
 
 ### Example
