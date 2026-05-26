@@ -19,3 +19,6 @@ Create a new `page` or blog `article` using `MD`.
 ```
 
 Set `mermaid` tag on the `page` or `article` and the mermaid library gets loaded.
+
+
+Link to [more mermaid examples](https://mermaid.ai/open-source/syntax/examples.html)
